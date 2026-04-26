@@ -103,14 +103,12 @@ CREATE TABLE mixes (
 
 ```
 CeperaWorkingBot/
-├── Bot15DebugFree.py      # Основной файл бота
+├── Bot21.py      # Основной файл бота
 ├── requirements.txt       # Зависимости
-├── service_account.json   # Ключ Google API (не коммитить!)
-├── .env                   # Переменные окружения (не коммитить!)
+├── service_account.json   # Ключ Google API 
 └── README.md
 ```
 
-> ⚠️ Убедись, что `.env` и `service_account.json` добавлены в `.gitignore`
 
 ---
 
